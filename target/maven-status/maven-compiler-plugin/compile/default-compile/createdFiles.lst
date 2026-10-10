@@ -1,0 +1,4 @@
+com\kevin\financas\FinancasApplication.class
+com\kevin\financas\transacao\Transacao.class
+com\kevin\financas\transacao\TipoTransacao.class
+com\kevin\financas\transacao\TransacaoRepository.class
