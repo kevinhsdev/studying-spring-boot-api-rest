@@ -1,2 +1,2 @@
-# studying-spring-boot-api-rest
+# FINANCIAL-APP
 on development
